@@ -1,3 +1,7 @@
 # Problem 1
 
-a
+## lorem
+
+$$E=mc^2$$
+
+This is an example $\theta=\phi/Z$
